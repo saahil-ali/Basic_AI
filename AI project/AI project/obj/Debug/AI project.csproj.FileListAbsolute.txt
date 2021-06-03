@@ -1,0 +1,47 @@
+C:\Users\DELL\source\repos\AI project\AI project\bin\Debug\AI project.exe.config
+C:\Users\DELL\source\repos\AI project\AI project\bin\Debug\AI project.exe
+C:\Users\DELL\source\repos\AI project\AI project\bin\Debug\AI project.pdb
+C:\Users\DELL\source\repos\AI project\AI project\obj\Debug\AI_project.Form1.resources
+C:\Users\DELL\source\repos\AI project\AI project\obj\Debug\AI_project.Properties.Resources.resources
+C:\Users\DELL\source\repos\AI project\AI project\obj\Debug\AI project.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\AI project\AI project\obj\Debug\AI project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AI project\AI project\obj\Debug\AI project.exe
+C:\Users\DELL\source\repos\AI project\AI project\obj\Debug\AI project.pdb
+C:\Users\DELL\source\repos\AI project\AI project\obj\Debug\AI project.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\AI project\AI project\bin\Debug\AI project.exe.config
+C:\Users\hp\Desktop\AI project\AI project\bin\Debug\AI project.exe
+C:\Users\hp\Desktop\AI project\AI project\bin\Debug\AI project.pdb
+C:\Users\hp\Desktop\AI project\AI project\obj\Debug\AI project.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\AI project\AI project\obj\Debug\AI_project.Form1.resources
+C:\Users\hp\Desktop\AI project\AI project\obj\Debug\AI_project.Properties.Resources.resources
+C:\Users\hp\Desktop\AI project\AI project\obj\Debug\AI project.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\AI project\AI project\obj\Debug\AI project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AI project\AI project\obj\Debug\AI project.exe
+C:\Users\hp\Desktop\AI project\AI project\obj\Debug\AI project.pdb
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\bin\Debug\AI project.exe.config
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\bin\Debug\AI project.exe
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\bin\Debug\AI project.pdb
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\obj\Debug\AI project.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\obj\Debug\AI_project.Form1.resources
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\obj\Debug\AI_project.Properties.Resources.resources
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\obj\Debug\AI project.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\obj\Debug\AI project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\obj\Debug\AI project.exe
+C:\Users\DELL\source\repos\AI project zip\AI project\AI project\obj\Debug\AI project.pdb
+C:\Users\hp\Downloads\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI_project.Form1.resources
+C:\Users\hp\Downloads\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI_project.Properties.Resources.resources
+C:\Users\hp\Downloads\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.exe
+C:\Users\hp\Downloads\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.pdb
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\bin\Debug\AI project.exe.config
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\bin\Debug\AI project.exe
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\bin\Debug\AI project.pdb
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI_project.Form1.resources
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI_project.Properties.Resources.resources
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.exe
+C:\Users\hp\Desktop\AI project 1\AI project zip\AI project\AI project\obj\Debug\AI project.pdb
